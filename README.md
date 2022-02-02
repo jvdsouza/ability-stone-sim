@@ -12,7 +12,7 @@ To run the server app:
 2. `go run main.go`
 
 To run the client app:
-1. `cd **client`
+1. `cd client`
 2. `npm install`
 3. `npm run start`
 
